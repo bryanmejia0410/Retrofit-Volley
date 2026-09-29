@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Api Volley</string>
+    <string name="tvTitle">Listado de TODOs(API JSONPlaceholder)</string>
+    <string name="registros_recibidos">Se recibieron %1$d registros</string>
+    <string name="error_generico">Ocurrió un error: %1$s</string>
+    <string name="error_volley">Error de red: %1$s</string>
+    <string name="tv_user_id">userId: %1$d</string>
+    <string name="tv_id">id: %1$d</string>
+</resources>
